@@ -2,16 +2,14 @@
 Exercises long, long ago.
 
 ### 主要有首页
-https://github.com/geekxz/ImitationJDPage/blob/master/images/index1.png
-https://github.com/geekxz/ImitationJDPage/blob/master/images/index2.png
-
+![Image text](https://github.com/geekxz/ImitationJDPage/blob/master/images/index1.png)
+![Image text](https://github.com/geekxz/ImitationJDPage/blob/master/images/index2.png)
 
 ### 详情页面
-https://github.com/geekxz/ImitationJDPage/blob/master/images/detail.png
-
+![Image text](https://github.com/geekxz/ImitationJDPage/blob/master/images/detail.png)
 
 ### 列表页面
-https://github.com/geekxz/ImitationJDPage/blob/master/images/list.png
+![Image text](https://github.com/geekxz/ImitationJDPage/blob/master/images/list.png)
 
 ### 用户登录页面
-https://github.com/geekxz/ImitationJDPage/blob/master/images/login.png
+![Image text](https://github.com/geekxz/ImitationJDPage/blob/master/images/login.png)
